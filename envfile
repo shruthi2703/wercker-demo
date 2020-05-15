@@ -1,0 +1,7 @@
+X_USERNAME=shruthi2703
+X_PASSWORD=1993#@Shruthi2703
+X_REPONAME=shruthi/wercker-demo
+X_TAGNAME="1505"
+X_CNT_NAME=test-wercker-container
+X_IMAGE_BASE="shruthi/wercker-demo"
+
